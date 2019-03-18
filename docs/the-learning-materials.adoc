@@ -2,9 +2,13 @@
 
 == 学习方法论
 
+. https://mp.weixin.qq.com/s/wFVhy1V-U43TqEDLppcoZw[零基础如何学习编程？]
+. https://mp.weixin.qq.com/s/F2doBzJxIK0Dbm6Tg-qUxA[作为一个菜鸟，如何零基础开始学习编程？] -- 废话不多说，先入门搞起来再说。
 . https://github.com/halfrost/Halfrost-Field/blob/master/contents/TimeElapse/2017.md[程序员如何在技术浪潮的更迭中保持较高的成长速度 ？]
 
-== Git
+== 技术
+
+=== Git
 
 *Git 是程序员的必备技能！*
 
@@ -20,20 +24,26 @@ GitHub 是全世界最大的同性交友、搞基网站。岂能弃之不用？
 . http://marklodato.github.io/visual-git-guide/index-en.html[A Visual Git Reference] -- 这个文档也非常好。属于进阶内容。建议熟练 Git 操作后再入坑。
 . https://git-scm.com/book/en/v2[ProGit] -- 最权威，也是最全面的资料。
 
+=== Java
 
-== 技术
-
+. http://www.cnblogs.com/skywang12345/p/3323085.html[Java 集合系列目录(Category)] -- 美中不足，帖子时间有点长，内容没有略有陈旧。
+. https://www.cnblogs.com/skywang12345/p/java_threads_category.html[Java多线程系列目录(共43篇)] -- 美中不足，帖子时间有点长，内容没有略有陈旧。
 . https://notes.diguage.com/intradoc/interview/[Java 面试指导]
-. https://notes.diguage.com/mysql/[MySQL 学习笔记]
-. http://blog.jobbole.com/114573/[计算机科学自学指南 - 文章 - 伯乐在线]
 . https://crossoverjie.top/JCSprout/#/[JCSprout - Java 核心知识库]
+. https://github.com/javagrowing/JGrowing[javagrowing/JGrowing: Java成长路线，但学到不仅仅是Java。]
+
+=== Database
+
+. https://notes.diguage.com/mysql/[MySQL 学习笔记]
+
+=== System
+
+. http://blog.jobbole.com/114573/[计算机科学自学指南 - 文章 - 伯乐在线]
 . https://github.com/kdn251/interviews[kdn251/interviews: Everything you need to know to get the job.]
 . https://github.com/donnemartin/system-design-primer[The System Design Primer]
 . https://github.com/soulmachine/system-design[soulmachine/system-design: 系统设计面试题精选]
-. https://github.com/javagrowing/JGrowing[javagrowing/JGrowing: Java成长路线，但学到不仅仅是Java。]
 
-
-== 面试
+== 面试经验
 
 . https://mp.weixin.qq.com/s/e8kKjFhdeTctEF6QY5sFBQ[春招收获阿里腾讯实习offer，学习、面试经验分享]
 
