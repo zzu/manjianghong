@@ -1,0 +1,25 @@
+= 学习资料
+
+== 学习方法论
+
+. https://github.com/halfrost/Halfrost-Field/blob/master/contents/TimeElapse/2017.md[程序员如何在技术浪潮的更迭中保持较高的成长速度 ？]
+
+== 技术
+
+. https://notes.diguage.com/intradoc/interview/[Java 面试指导]
+. https://notes.diguage.com/mysql/[MySQL 学习笔记]
+. http://blog.jobbole.com/114573/[计算机科学自学指南 - 文章 - 伯乐在线]
+. https://crossoverjie.top/JCSprout/#/[JCSprout - Java 核心知识库]
+. https://github.com/kdn251/interviews[kdn251/interviews: Everything you need to know to get the job.]
+. https://github.com/donnemartin/system-design-primer[The System Design Primer]
+. https://github.com/soulmachine/system-design[soulmachine/system-design: 系统设计面试题精选]
+. https://github.com/javagrowing/JGrowing[javagrowing/JGrowing: Java成长路线，但学到不仅仅是Java。]
+
+
+== 面试
+
+. https://mp.weixin.qq.com/s/e8kKjFhdeTctEF6QY5sFBQ[春招收获阿里腾讯实习offer，学习、面试经验分享]
+
+== 观点
+
+. https://mp.weixin.qq.com/s/5pnxJOEBzcreOUUN1fFjag[你选择25k的996还是18k的965？]
