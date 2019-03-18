@@ -4,6 +4,23 @@
 
 . https://github.com/halfrost/Halfrost-Field/blob/master/contents/TimeElapse/2017.md[程序员如何在技术浪潮的更迭中保持较高的成长速度 ？]
 
+== Git
+
+*Git 是程序员的必备技能！*
+
+GitHub 是全世界最大的同性交友、搞基网站。岂能弃之不用？
+
+. https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies[Git and Github: A Beginner’s Guide for Complete Newbies] -- 结合 Git 和 GitHub 一起做介绍。
+. https://learngitbranching.js.org/[Learn Git Branching] -- 以动画形式在网页上学习 Git，图文并茂，非常棒。建议你们跟着学习。
+. http://rogerdudler.github.io/git-guide/[git - the simple guide - no deep shit!] -- 也是一个非常赞的 Git 入门教程。
+. https://www.sitepoint.com/git-for-beginners/[Git for Beginners — SitePoint] -- Git 入门教程。
+. http://www.worldhello.net/gotgithub/index.html[Got GitHub] -- 针对 GitHub 的截图有多过时了。
+. http://fancyoung.com/blog/githug-cheat-sheet/[Githug通关全攻略] -- 以游戏通关的形式来介绍 Git，非常好玩。（美中不足，需要在本地安装 Ruby 环境。）
+. https://githug.zhang-ou.com/[Githug 通关攻略] -- 与上一个资料相同，都是 GitHug 的通关攻略。这个介绍得更详细一些。
+. http://marklodato.github.io/visual-git-guide/index-en.html[A Visual Git Reference] -- 这个文档也非常好。属于进阶内容。建议熟练 Git 操作后再入坑。
+. https://git-scm.com/book/en/v2[ProGit] -- 最权威，也是最全面的资料。
+
+
 == 技术
 
 . https://notes.diguage.com/intradoc/interview/[Java 面试指导]
