@@ -117,7 +117,7 @@ GitHub 是全世界最大的同性交友、搞基网站。岂能弃之不用？
 +
 在 2014 年时，约以每月 8000 篇的速度增加。arXiv 的存在是造就科学出版业中所谓开放获取运动的因素之一。现今的一些数学家及科学家习惯先将其论文上传至 arXiv.org，再提交予专业的学术期刊。这个趋势对传统学术期刊的经营模式造成了可观的冲击。
 +
-. https://scirate.com/[SciRate] -- arXiv 上的论文太多，所以，SciRate 索引了 arXiv 上的一些好评的论文，并供大家评论和打分。（https://github.com/scirate/scirate[开源代码]。）
+. https://scirate.com/[SciRate] -- arXiv 上的论文太多，所以，SciRate 索引了 arXiv 上的一些好评的论文，并供大家评论和打分。( https://github.com/scirate/scirate[开源代码] )
 . http://doc.cat-v.org/[cat-v.org] -- 这个网站，不只有论文，还有技术手册或是一些有意思的文章，包括一些历史资料什么的。
 . https://www.usenix.org/conferences/best-papers[Usenix: Best Papers] -- Usenix 上推荐的最佳论文。
 . https://blog.acolyer.org/[The Morning Paper] -- 该博客会每天推送一篇论文，特别棒。
