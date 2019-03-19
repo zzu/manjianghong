@@ -5,6 +5,7 @@
 . https://mp.weixin.qq.com/s/wFVhy1V-U43TqEDLppcoZw[零基础如何学习编程？]
 . https://mp.weixin.qq.com/s/F2doBzJxIK0Dbm6Tg-qUxA[作为一个菜鸟，如何零基础开始学习编程？] -- 废话不多说，先入门搞起来再说。
 . https://github.com/halfrost/Halfrost-Field/blob/master/contents/TimeElapse/2017.md[程序员如何在技术浪潮的更迭中保持较高的成长速度 ？]
+. http://lucida.me/blog/on-learning-algorithms/[我的算法学习之路 | lucida]
 
 == 技术
 
@@ -42,6 +43,86 @@ GitHub 是全世界最大的同性交友、搞基网站。岂能弃之不用？
 . https://github.com/kdn251/interviews[kdn251/interviews: Everything you need to know to get the job.]
 . https://github.com/donnemartin/system-design-primer[The System Design Primer]
 . https://github.com/soulmachine/system-design[soulmachine/system-design: 系统设计面试题精选]
+
+== 技术资源集散地
+
+工欲善其事必先利其器。从知识的源头获取到的知识才是最原汁原味，最权威的。
+
+== 个人技术博客
+
+. https://medium.com/[Medium] -- 现在一个非常流行的博客网站，很多公司的技术博客官网都迁移到这里了。__得科学上网。__
+. https://hackernoon.com/[Hacker Noon] -- 这是一个一堆人在写的博客，里面有很多质量很高的文章。
+. https://blog.codinghorror.com/[Coding Horror] -- 这是杰夫·阿特伍德（Jeff Atwood）于 2004 年年创办的博客，记录其在软件开发经历中的所思所想、点点滴滴。2008 年，他和 Joel Spolsky 联合创办了 StackOverflow 问答网站。
+. https://www.joelonsoftware.com/[Joel on Software] -- 《软件随想录》作者。
+. http://blog.cleancoder.com/[Clean Coder Blog] -- 这是编程大师“Bob 大叔”的博客，其真名叫 Robertt C. Martin，世界级软件开发大师，设计模式和敏捷开发先驱，敏捷联盟首任主席，C++ Report 前主编，被后辈程序员尊称为“Bob 大叔”。
+. https://martinfowler.com/[Martin Fowler] -- 这是另外一个程序员大师，Martin 主要专注于面向对象分析与设计、统一建模语言、领域建模，以及敏捷软件开发方法，包括极限编程。他的《重构》、《企业应用架构模式》、《领域特定语言》和《NoSQL 精粹》都是非常不错的书。在他的博客上有很多很多的编程和架构模式方法可以学习。
+. http://www.brendangregg.com/index.html[Brendan Gregg's Homepage] -- Brendan 是 Netflix 的工程师，他的博客里有大量的非常非常不错的文章，基本上都是和 Linux 性能分析相关的，这是一个如果你要玩底层性能分析一定不能错过的博客。
+
+=== 大公司技术博客
+
+. http://nerds.airbnb.com/[Airbnb Engineering]
+. AWS 相关
+.. https://www.allthingsdistributed.com/[All Things Distributed]
+.. https://aws.amazon.com/cn/blogs/architecture/[AWS Architecture Blog]
+.. http://mvdirona.com/jrh/work/[On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS]
+. http://bandcamptech.wordpress.com/[Bandcamp Tech]
+. https://www.simple.com/engineering/[BankSimple Simple Blog]
+. http://word.bitly.com/[Bitly Engineering Blog]
+. http://blog.cloudera.com/blog/[Cloudera Developer Blog]
+. https://tech.dropbox.com/[Dropbox Tech Blog]
+. http://codeascraft.com/[Etsy Code as Craft]
+. https://www.facebook.com/Engineering[Facebook Engineering]
+. http://code.flickr.net/[Flickr Code]
+. http://engineering.foursquare.com/[Foursquare Engineering Blog]
+. http://googleresearch.blogspot.com/[Google Research Blog]
+. https://engineering.groupon.com/[Groupn Engineering Blog]
+. http://highscalability.com/[High Scalability]
+. http://instagram-engineering.tumblr.com/[Instagram Engineering]
+. http://engineering.linkedin.com/blog[LinkedIn Engineering]
+. http://tech.oyster.com/[Oyster Tech Blog]
+. http://engineering.pinterest.com/[Pinterest Engineering Blog]
+. http://engineering.quora.com/[Quora Engineering]
+. http://devblog.songkick.com/[Songkick Technology Blog]
+. https://developers.soundcloud.com/blog/[SoundCloud Backstage Blog]
+. http://corner.squareup.com/[Square The Corner]
+. http://www.redditblog.com/[The Reddit Blog]
+. https://github.com/blog/category/engineering[The GitHub Blog]
+. http://techblog.netflix.com/[The Netflix Tech Blog]
+. http://www.twilio.com/engineering[Twilio Engineering Blog]
+. https://engineering.twitter.com/[Twitter Engineering]
+. http://engineering.webengage.com/[WebEngage Engineering Blog]
+. http://eng.yammer.com/blog/[Yammer Engineering]
+. http://engineeringblog.yelp.com/[Yelp Engineering Blog]
+. https://smarketshq.com/[Smarkets Blog]
+
+=== 如何读论文
+
+. http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/[How to read an academic article]
+. https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html[Advice on reading academic papers]
+. http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/[How to read and understand a scientific paper]
+. http://michaelrbernste.in/2014/10/21/should-i-read-papers.html[Should I Read Papers?]
+. https://www.youtube.com/watch?v=8eRx5Wo3xYA[The Refreshingly Rewarding Realm of Research Papers]
+
+=== 论文集散地
+
+. https://www.youtube.com/user/keeroyz[2 Minute Papers] -- 这是一个 YouTube 的频道，其会给出一些非常不错的和计算机相关的论文介绍，让你了解目前最有意思的一些科学突破，每次两分钟左右。
+. https://jeffhuang.com/best_paper_awards.html[Best Paper Awards in Computer Science] -- 从 1996 年以来，获奖的计算机科学方面的论文收集。
+. https://scholar.google.com/schhp?hl=en[Google Scholar] -- Google 学术搜索（英语：Google Scholar）是一个可以免费搜索学术文章的网络搜索引擎，由计算机专家阿努拉格·阿查里雅（Anurag Acharya）开发。2004 年 11 月，Google 第一次发布了 Google 学术搜索的试用版。该项索引包括了世界上绝大部分出版的学术期刊。
+. https://research.fb.com/publications/[Facebook] -- Facebook 公司的论文。
+. https://ai.google/research/pubs[Research at Google] -- Google 发布一些论文。
+. https://www.microsoft.com/en-us/research/search/[Microsoft Research] -- 微软发布的论文。
+. http://dspace.mit.edu/handle/1721.1/39813[MIT’s Artificial Intelligence Lab Publications] -- MIT 和人工智能相关的论文。
+. http://dsrg.pdos.csail.mit.edu/[MIT’s Distributed System’s Reading Group] -- MIT 和分布式系统相关的论文。
+. https://arxiv.org/[arXiv Paper Repository] -- arXiv 是一个收集物理学、数学、计算机科学与生物学的论文预印本的网站，始于 1991 年 8 月 14 日。截至 2008 年 10 月，arXiv.org 已收集超过 50 万篇预印本。至 2014 年底，藏量达到 1 百万篇。
++
+在 2014 年时，约以每月 8000 篇的速度增加。arXiv 的存在是造就科学出版业中所谓开放获取运动的因素之一。现今的一些数学家及科学家习惯先将其论文上传至 arXiv.org，再提交予专业的学术期刊。这个趋势对传统学术期刊的经营模式造成了可观的冲击。
++
+. https://scirate.com/[SciRate] -- arXiv 上的论文太多，所以，SciRate 索引了 arXiv 上的一些好评的论文，并供大家评论和打分。（https://github.com/scirate/scirate[开源代码]。）
+. http://doc.cat-v.org/[cat-v.org] -- 这个网站，不只有论文，还有技术手册或是一些有意思的文章，包括一些历史资料什么的。
+. https://www.usenix.org/conferences/best-papers[Usenix: Best Papers] -- Usenix 上推荐的最佳论文。
+. https://blog.acolyer.org/[The Morning Paper] -- 该博客会每天推送一篇论文，特别棒。
+. https://lobste.rs/t/pdf[Lobste.rs tagged as PDF] -- Lobsters 是一个聚焦于技术的社区，主要是链接聚合和对话题进行讨论。其中的 PDF 分类可以认为也是一个论文的集散地。
+. https://github.com/papers-we-love/papers-we-love[Papers We Love] -- GitHub 上的一个近 3 万颗星的计算机科学方面的论文社区。
 
 == 面试经验
 
