@@ -1,13 +1,17 @@
 = 满江红
 
-叹息于自己在大学期间以及工作之后，走了不少弯路，希望把一些经验和弯路分享给大家。少走弯路就是捷径。所以，取名 “满江红”，取之岳飞的词“满江红”，重点寓意是：莫等闲，白了少年头，空悲切。
+叹息于自己在大学期间以及工作之后，走了不少弯路，希望把一些经验和弯路分享给大家。少走弯路就是捷径。所以，取名 “满江红”，取之于岳飞的同名词，重点寓意是： *莫等闲，白了少年头，空悲切。*
 
-*大家有好的学习资料欢迎发送 PR，或者提交 Issue，一起把学习资料丰富起来！*
+*有好的学习资料欢迎发送 PR，或者提交 Issue，一起把学习资料丰富起来！*
 
-TIP: 本文档使用 AsciiDoc 格式编辑。快速入门，请看： https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
+*在校大学生有什么问题，也欢迎提交 Issue，留言讨论。（对及时性不做保证，毕竟大家还要工作！）*
 
 == 目录
 
 . link:./docs/the-group-rules.adoc[群规]
 . link:./docs/the-learning-materials.adoc[学习资料]
 . link:./docs/the-recommended-books-for-college-students.adoc[推荐给大学在校生的计算机书单]
+
+== 附录
+
+TIP: 本文档使用 AsciiDoc 格式编辑。快速入门，请看： https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
