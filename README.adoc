@@ -6,6 +6,13 @@
 
 *在校大学生有什么问题，也欢迎提交 Issue，留言讨论。（对及时性不做保证，毕竟大家还要工作！）*
 
+为了避免浪费彼此的宝贵时间，提问之前，请仔细阅读：
+
+* http://www.catb.org/~esr/faqs/smart-questions.html[How To Ask Questions The Smart Way]
+* https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md[中文版：提问的智慧]
+
+TIP: 英语是每个程序员进阶的必备技能！建议早日掌握好英语！
+
 == 目录
 
 . link:./docs/the-group-rules.adoc[群规]
